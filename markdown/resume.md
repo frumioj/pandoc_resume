@@ -3,8 +3,8 @@ John Kemp
 
 ----------------------------------------------------------------         -------------------------------
 A creative, experienced software developer and technical leader,         e: <stable.pseudonym@gmail.com>
-productive in multiple programming languages, who has worked on          t: +1.413.645.4169
-diverse, complex software projects with a focus on security.             PO Box 444, Sheffield MA 01257
+productive in multiple programming languages, who has worked on          t: +1.xxxxxxxxx
+diverse, complex software projects with a focus on security.             PO Box YYYYY, Sheffield MA 01257
 ----------------------------------------------------------------         -------------------------------
 
 Skills
@@ -123,5 +123,5 @@ Feb 2009 - Feb 2011
 ---------------------           --------------------------------------------------------------------------------
 ----
 
-> <stable.pseudonym@gmail.com> • +1.413.645.4169\
-> address - PO Box 444, Sheffield MA 01257
+> <stable.pseudonym@gmail.com> • +1.xxxxxxxx\
+> address - PO Box YYYY, Sheffield MA 01257
